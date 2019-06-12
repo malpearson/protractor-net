@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 
 using OpenQA.Selenium;
-using OpenQA.Selenium.Internal;
+//using OpenQA.Selenium.Internal;
 
 namespace Protractor
 {
